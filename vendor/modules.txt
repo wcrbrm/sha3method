@@ -1,0 +1,2 @@
+# github.com/ethereumproject/go-ethereum v5.5.2+incompatible
+github.com/ethereumproject/go-ethereum/crypto/sha3
